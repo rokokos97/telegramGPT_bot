@@ -27,29 +27,22 @@
 
 | [Docs](https://github.com/remy/nodemon#nodemon) | [GitHub](https://github.com/remy/nodemon/) |
 
-[//]: # ()
-[//]: # (## Docker)
 
-[//]: # (<p align="center"> )
+## Telegraf
 
-[//]: # (    <a href="https://www.docker.com/">)
+<p align="center"> 
 
-[//]: # (        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker logo" height="80">)
+<a href="https://telegrafjs.org/#/">
+    <img src="https://raw.githubusercontent.com/telegraf/telegraf/HEAD/docs/assets/logo.svg" alt="Telegraf logo" height="80">
+</a>
 
-[//]: # (    </a>)
+</p>
 
-[//]: # (</p>)
+<p align="center">  
+Bots are special Telegram accounts designed to handle messages automatically. Users can interact with bots by sending them command messages in private or group chats. These accounts serve as an interface for code running somewhere on your server.
+</p>
 
-[//]: # (<p align="center">  )
-
-[//]: # (    Docker makes development efficient and predictable)
-
-[//]: # (Docker takes away repetitive, mundane configuration tasks and is used throughout the development lifecycle for fast, easy and portable application development – desktop and cloud. Docker’s comprehensive end to end platform includes UIs, CLIs, APIs and security that are engineered to work together across the entire application delivery lifecycle.)
-
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (| [Docs]&#40;https://docs.docker.com/&#41; | [Quick Start]&#40;https://docs.docker.com/get-started/&#41; | [Video Tutorial]&#40;https://www.youtube.com/watch?v=n9uCgUzfeRQ&#41; |)
+| [Docs](https://www.npmjs.com/package/telegraf) | [Install](https://telegrafjs.org/#/?id=installation) |
 
 [//]: # ()
 [//]: # ()
@@ -77,7 +70,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://github.com/axios/axios&#41; | [Quick Start]&#40;https://axios-http.com/docs/intro&#41; | [Video Tutorial]&#40;https://www.youtube.com/watch?v=fDVhl3DGkD0&#41; |)
+[//]: # (| [Docs]&#40https://github.com/axios/axios&#41 | [Quick Start]&#40https://axios-http.com/docs/intro&#41 | [Video Tutorial]&#40https://www.youtube.com/watch?v=fDVhl3DGkD0&#41 |)
 
 [//]: # ()
 [//]: # (## Bootstrap 5)
@@ -99,7 +92,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://getbootstrap.com/docs/5.3/getting-started/introduction/&#41; | [Quick Start]&#40;https://getbootstrap.com/docs/5.3/getting-started/introduction/&#41; |)
+[//]: # (| [Docs]&#40https://getbootstrap.com/docs/5.3/getting-started/introduction/&#41 | [Quick Start]&#40https://getbootstrap.com/docs/5.3/getting-started/introduction/&#41 |)
 
 [//]: # ()
 [//]: # (## Bcrypt)
@@ -111,7 +104,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://www.npmjs.com/package/bcrypt&#41; |)
+[//]: # (| [Docs]&#40https://www.npmjs.com/package/bcrypt&#41 |)
 
 [//]: # ()
 [//]: # (## Chalk)
@@ -133,7 +126,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://www.npmjs.com/package/chalk&#41; | [Quick Start]&#40;https://www.npmjs.com/package/chalk&#41; | [Video Tutorial]&#40;https://www.youtube.com/watch?v=czsc2rsS3NY&#41; |)
+[//]: # (| [Docs]&#40https://www.npmjs.com/package/chalk&#41 | [Quick Start]&#40https://www.npmjs.com/package/chalk&#41 | [Video Tutorial]&#40https://www.youtube.com/watch?v=czsc2rsS3NY&#41 |)
 
 [//]: # ()
 [//]: # (## Config)
@@ -145,7 +138,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://www.npmjs.com/package/config&#41; |)
+[//]: # (| [Docs]&#40https://www.npmjs.com/package/config&#41 |)
 
 [//]: # ()
 [//]: # (## Cors)
@@ -157,7 +150,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://www.npmjs.com/package/cors&#41; |)
+[//]: # (| [Docs]&#40https://www.npmjs.com/package/cors&#41 |)
 
 [//]: # ()
 [//]: # (## Eslint)
@@ -181,7 +174,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://eslint.org/docs/latest/&#41; | [Quick Start]&#40;https://eslint.org/docs/latest/use/getting-started&#41; |)
+[//]: # (| [Docs]&#40https://eslint.org/docs/latest/&#41 | [Quick Start]&#40https://eslint.org/docs/latest/use/getting-started&#41 |)
 
 [//]: # ()
 [//]: # (## Express)
@@ -203,7 +196,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://expressjs.com/en/guide/routing.html&#41; |)
+[//]: # (| [Docs]&#40https://expressjs.com/en/guide/routing.html&#41 |)
 
 [//]: # ()
 [//]: # (## Express-validator)
@@ -215,7 +208,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://www.npmjs.com/package/express-validator&#41; |)
+[//]: # (| [Docs]&#40https://www.npmjs.com/package/express-validator&#41 |)
 
 [//]: # (## Jsonwebtoken)
 
@@ -240,7 +233,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://www.npmjs.com/package/jsonwebtoken&#41; |)
+[//]: # (| [Docs]&#40https://www.npmjs.com/package/jsonwebtoken&#41 |)
 
 [//]: # ()
 [//]: # (## Lodash)
@@ -262,7 +255,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://lodash.com/docs/4.17.15&#41; |)
+[//]: # (| [Docs]&#40https://lodash.com/docs/4.17.15&#41 |)
 
 [//]: # ()
 [//]: # (## Mongoose)
@@ -284,7 +277,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://mongoosejs.com/docs/guide.html&#41; |)
+[//]: # (| [Docs]&#40https://mongoosejs.com/docs/guide.html&#41 |)
 
 [//]: # ()
 [//]: # (## Nanoid)
@@ -306,7 +299,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://www.npmjs.com/package/nanoid&#41; |)
+[//]: # (| [Docs]&#40https://www.npmjs.com/package/nanoid&#41 |)
 
 [//]: # ()
 [//]: # (## React-Router)
@@ -323,12 +316,12 @@
 
 [//]: # (<p align="center">  )
 
-[//]: # (React Router is a lightweight, fully-featured routing library for the React JavaScript library. React Router runs everywhere that React runs; on the web, on the server &#40;using node.js&#41;, and on React Native.)
+[//]: # (React Router is a lightweight, fully-featured routing library for the React JavaScript library. React Router runs everywhere that React runs on the web, on the server &#40using node.js&#41, and on React Native.)
 
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://reactrouter.com/en/main/start/tutorial&#41;)
+[//]: # (| [Docs]&#40https://reactrouter.com/en/main/start/tutorial&#41)
 
 [//]: # ()
 [//]: # (## React-Toastify)
@@ -340,7 +333,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Docs]&#40;https://github.com/fkhadra/react-toastify#readme&#41; |)
+[//]: # (| [Docs]&#40https://github.com/fkhadra/react-toastify#readme&#41 |)
 
 [//]: # ()
 [//]: # (## Redux)
@@ -362,7 +355,7 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [User Guide]&#40;https://redux.js.org/usage/&#41; | [Quick Start]&#40;https://redux.js.org/introduction/getting-started&#41; |)
+[//]: # (| [User Guide]&#40https://redux.js.org/usage/&#41 | [Quick Start]&#40https://redux.js.org/introduction/getting-started&#41 |)
 
 [//]: # ()
 [//]: # (## Yup)
@@ -374,4 +367,4 @@
 [//]: # (</p>)
 
 [//]: # ()
-[//]: # (| [Quick Start]&#40;https://www.npmjs.com/package/yup&#41; |)
+[//]: # (| [Quick Start]&#40https://www.npmjs.com/package/yup&#41 |)
