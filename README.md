@@ -27,29 +27,22 @@
 
 | [Docs](https://github.com/remy/nodemon#nodemon) | [GitHub](https://github.com/remy/nodemon/) |
 
-[//]: # ()
-[//]: # (## Docker)
 
-[//]: # (<p align="center"> )
+## Telegraf
 
-[//]: # (    <a href="https://www.docker.com/">)
+<p align="center"> 
 
-[//]: # (        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker logo" height="80">)
+<a href="https://telegrafjs.org/#/">
+    <img src="https://raw.githubusercontent.com/telegraf/telegraf/HEAD/docs/assets/logo.svg" alt="Telegraf logo" height="80">
+</a>
 
-[//]: # (    </a>)
+</p>
 
-[//]: # (</p>)
+<p align="center">  
+Bots are special Telegram accounts designed to handle messages automatically. Users can interact with bots by sending them command messages in private or group chats. These accounts serve as an interface for code running somewhere on your server.
+</p>
 
-[//]: # (<p align="center">  )
-
-[//]: # (    Docker makes development efficient and predictable)
-
-[//]: # (Docker takes away repetitive, mundane configuration tasks and is used throughout the development lifecycle for fast, easy and portable application development – desktop and cloud. Docker’s comprehensive end to end platform includes UIs, CLIs, APIs and security that are engineered to work together across the entire application delivery lifecycle.)
-
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (| [Docs]&#40;https://docs.docker.com/&#41; | [Quick Start]&#40;https://docs.docker.com/get-started/&#41; | [Video Tutorial]&#40;https://www.youtube.com/watch?v=n9uCgUzfeRQ&#41; |)
+| [Docs](https://www.npmjs.com/package/telegraf) | [Install](https://telegrafjs.org/#/?id=installation) |
 
 [//]: # ()
 [//]: # ()
