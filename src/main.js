@@ -1,7 +1,7 @@
 import {Telegraf} from "telegraf";
 import { message } from "telegraf/filters";
 import config from "config"
-import {ogg} from "/ogg.js"
+import {ogg} from "./ogg.js"
 const bot = new Telegraf(config.get("TELEGRAM_TOKEN"));
 
 bot.on(message('voice'), async (ctx)=>{
@@ -11,6 +11,7 @@ bot.on(message('voice'), async (ctx)=>{
     console.log(userId);
     console.log(voiceFileLink.href);
     const oggPath = await ogg.create( voiceFileLink.href, userId);
+    const mp3Path = await ogg.toMp3(oggPath, userId );
     await ctx.reply(JSON.stringify(voiceFileLink , null, 2))
   } catch (error) {
     console.log("Error while voice message", error.message);
