@@ -1,10 +1,10 @@
-import axios from "axios";
-import { createWriteStream } from "fs";
-import {dirname,resolve} from "path";
-import {fileURLToPath} from "url";
-import ffmpeg from "fluent-ffmpeg";
-import installer from "@ffmpeg-installer/ffmpeg";
-import {removeFile} from "./utils.js";
+import axios from "axios"
+import { createWriteStream } from "fs"
+import {dirname,resolve} from "path"
+import {fileURLToPath} from "url"
+import ffmpeg from "fluent-ffmpeg"
+import installer from "@ffmpeg-installer/ffmpeg"
+import {removeFile} from "./utils.js"
 
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -29,7 +29,7 @@ class OggConverter {
           .run()
       })
     } catch (error) {
-      console.log("Error while converting ogg to mp3", error.message);
+      console.log("Error while converting ogg to mp3", error.message)
     }
   }
 
@@ -48,10 +48,10 @@ class OggConverter {
       })
 
     } catch (error) {
-      console.log('Error while creating ogg file', error.message);
+      console.log('Error while creating ogg file', error.message)
     }
 
   }
 }
 
-export const ogg = new OggConverter();
+export const ogg = new OggConverter()
