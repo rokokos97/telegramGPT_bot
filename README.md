@@ -1,10 +1,10 @@
 ## About 
 
-This telegram-bot is capable of understanding both voice and text inputs, allowing for more natural and dynamic conversations. It utilizes OpenAI and has the ability to remember the context of the conversation. It can  learn and improve over time.
+This telegram is capable of understanding both voice and text inputs, allowing for more natural and dynamic conversations. It utilizes OpenAI and has the ability to remember the context of the conversation. It can  learn and improve over time.
 
 You can find detailed step-by-step instructions on how to create a similar application by following the link below:
 
-[Telegram_OpenAi_Bot](https://www.youtube.com/watch?v=-6ufFPvp6CY&t=4554s)
+[Telegram_OpenAi_Bot](https://www.youtube.com/watch?v=-6ufFPvp6CY&t=4558s)
 
 ## Technologies and frameworks:
 ## OpenAI

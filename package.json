@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "axios": "^1.4.0",
     "config": "^3.3.9",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "^0.0.1-security",
